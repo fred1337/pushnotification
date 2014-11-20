@@ -56,7 +56,7 @@ var app = {
     },
 
     errorHandler:function(error) {
-    alert(error);
+    alert('fail' + error);
     },
 
     onNotificationGCM: function(e) {
