@@ -45,7 +45,7 @@
     <feature name="PushPlugin">
         <param name="android-package" value="com.plugin.gcm.PushPlugin" />
     </feature>
-    <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
+    <gap:plugin name="com.phonegap.plugins.GenericPush" version="2.4.0" />
     <icon src="icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="www/res/icon/android/icon-36-ldpi.png" />
     <icon gap:platform="android" gap:qualifier="mdpi" src="www/res/icon/android/icon-48-mdpi.png" />
